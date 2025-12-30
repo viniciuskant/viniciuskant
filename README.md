@@ -15,7 +15,7 @@ I am a student at the University of Campinas (UNICAMP), passionate about low-lev
 
 - **[Odhin Organization](https://github.com/Unicamp-Odhin):** I am an active member of the Odhin organization, which is dedicated to developing innovative solutions focused on high-performance computing and embedded systems.
 
-- **[Rofofo Project - Audio Processing and AI Acceleration with FPGA](https://github.com/Unicamp-Odhin/Rofofo):** I participate in the **Rofofo** project, which aims to accelerate audio processing and artificial intelligence techniques using FPGAs. This project focuses on optimizing the execution of signal processing algorithms and machine learning on specialized hardware.
+- **[Rofofo Project - Audio Processing and AI Acceleration with FPGA](https://github.com/Unicamp-Odhin/Rofofo):** I participate in the **Rofofo** project, which aims to accelerate audio processing using FPGAs.
 
 ## Other Projects
 
