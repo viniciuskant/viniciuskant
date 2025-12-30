@@ -24,9 +24,3 @@ I am a student at the University of Campinas (UNICAMP), passionate about low-lev
 - **[Termonal - Terminal Game](https://github.com/viniciuskant/termonal):** In my free time, I am creating a terminal game as a hobby. **Termonal** is a simple yet challenging game where players interact through terminal commands.
 
 - **[Custom Kernel - Linux Kernel Modifications](https://github.com/viniciuskant/custom_kernel):** I have made modifications to the Linux kernel to better understand how it works, focusing on the system files part. This project reflects my interest in understanding the internal workings of the operating system and how it interacts with hardware.
-
-## My GitHub Stats:
-
-![viniciuskant's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuskant&show_icons=true&hide_border=true&count_private=true)
-
----
